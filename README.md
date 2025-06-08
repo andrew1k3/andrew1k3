@@ -10,9 +10,9 @@ Here you'll find a collection of small projects that I've worked on, ranging fro
 
 Feel free to explore my repositories and provide feedback or suggestions. I'm always open to collaboration and learning from others!
 
-## Contact Me
+## Contact me
 
-- **LinkedIn** https://www.linkedin.com/in/ajgardner7/
+Feel free to contact me about anything.
 
 
 If you have any questions, want to discuss a project, or just want to connect, feel free to reach out. I'd love to hear from you!
