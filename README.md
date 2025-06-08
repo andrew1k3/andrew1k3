@@ -12,7 +12,7 @@ Feel free to explore my repositories and provide feedback or suggestions. I'm al
 
 ## Contact Me
 
-- **Email:** andrew.jgardner17@gmail.com
+- **LinkedIn** https://www.linkedin.com/in/ajgardner7/
 
 
 If you have any questions, want to discuss a project, or just want to connect, feel free to reach out. I'd love to hear from you!
